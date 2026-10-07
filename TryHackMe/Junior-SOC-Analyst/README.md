@@ -203,4 +203,31 @@ For this lab "Human as Attack Vector Web App", I worked as SOC analyst at TryHac
 
 
 
+## System as attack Vectors
+
+I recently explored the SOC role in protecting the digital world, focusing on systems as attack vectors. I learnt what the systems are, why and how threat groups target them, and what i can do as a SOC analyst to keep companies secure.
+## Topic Breakdown
+
+Description
+
+**Task 1: Introduction** Overview of the topic objectives and systems as attack vector in cybersecurity. 
+**Task 2: Attack on system**  Understanding why systems are attacked, and how most of them are facilitated by human engineering, vulnerabilities in the system and supply chain attack which is those pushed through app updates.  
+**Task 3: Vulnerabilities**  Exploring software vulnerabilities and patches. 
+**Task 4: Misconfiguration**  updating the software does not fix a misconfiguration but rather a better setup, starting from strong passwords, permission and web firewall rules. 
+**Task 5: Practice**  Practical application of concepts learned to identify and respond to threats. 
+**Task 6: Conclusion**  Summary of key takeaways regarding System as attack vectors. 
+
+### 💡 Key Takeaways
+** Every piece of software has flaws, but some take years to be discovered. In the worst-case scenario, attackers discover the vulnerability before anyone else. This is known as a zero-day, and only your SOC skills can determine whether it gets detected in time.
+ ** software updates does not fix a misconfiguration but rather a strong password, permissions, and firewall blocking.  
+** Patches is the fix for vulnerabilities
+
+
+### practical 
+For this lab "system as Attack Vectors Web App", I worked as SOC analyst at TryHackMe reviewing and analyzing potential Systems at Risk,prepared and implemented the corporate Remediation Plan and chose the best measures to protect systems at the Remediation Plan tabs. 
+
+
+*Status: Completed
+
+
 
