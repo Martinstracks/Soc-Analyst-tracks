@@ -175,7 +175,31 @@ i successfully chose the right people to deal with the cyber securitry incidents
 - Practise investigating suspicious activity.
 
 
+## Human as attack Vector
 
+I recently completed the "Human as attack vector" module on TryHackMe as part of my journey toward becoming a Junior SOC Analyst. This module focused on understanding how cyber attacks target people rather than just systems, and the importance of defense in depth.
+
+## Topic Breakdown
+
+Description
+
+**Task 1: Introduction** Overview of the module objectives and the importance of the human factor in cybersecurity. 
+**Task 2: The Human Element**  Understanding why humans are the weakest link and how social engineering exploits psychology. 
+**Task 3: Attacks on Humans**  Exploring common attack vectors such as phishing, vishing, and impersonation. 
+**Task 4: Defending Humans**  Learning strategies to mitigate risks, including security awareness training and policy enforcement. 
+**Task 5: Practice**  Practical application of concepts learned to identify and respond to threats. 
+**Task 6: Conclusion**  Summary of key takeaways regarding human-centric security. 
+
+### 💡 Key Takeaways
+*   **The Weakest Link:** Technology is strong, but human psychology is often the easiest target for attackers.
+*   **SOC Relevance:** As a SOC Analyst, understanding social engineering helps in triaging alerts related to compromised credentials and suspicious user behavior.
+*   **Defense:** Security is not just about firewalls; it is about education and creating a security-conscious culture.
+
+
+### practical 
+For this lab "Human as Attack Vector Web App", I worked as SOC analyst at TryHackMe. I triaged alerts and was able to protect workers at Employees at Risk tab, and made TryHackMe more secure by proposing effective Security Policies to protect workers.
+
+*Status: Completed
 
 
 
