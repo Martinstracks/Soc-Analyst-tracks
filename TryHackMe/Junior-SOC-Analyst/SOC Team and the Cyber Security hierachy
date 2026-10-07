@@ -1,0 +1,43 @@
+# SOC Level 1 – Blue Team Introduction
+
+**Platform:** TryHackMe  
+**Path:** SOC Level 1  
+**Room:** Blue Team Introduction  
+**Status:** ✅ Completed
+
+## What I Learned
+
+### 1. SOC and Blue Team
+- A Security Operations Centre (SOC) monitors and responds to security incidents.
+- The Blue Team focuses on defending systems, networks and data.
+- SOC analysts investigate suspicious activity and potential security incidents.
+
+### 2. Security Hierarchy
+- Cybersecurity contains different roles and levels of responsibility.
+- SOC analysts can progress through different levels as they gain experience and technical skills.
+
+### 3. Blue Team Roles
+- Learned about the different roles involved in defensive security.
+- SOC analysts are responsible for monitoring alerts, investigating events and escalating incidents when necessary.
+
+### 4. SOC Career
+- Learned about the typical progression of a SOC analyst.
+- Developing technical knowledge, investigation skills and practical experience is important for progressing in a SOC career.
+
+## Key Takeaways
+
+- Understand the purpose of a SOC.
+- Understand the difference between Blue Team and defensive security.
+- Understand the general role of a SOC analyst.
+- Understand that SOC roles can progress from entry-level positions to more advanced security roles.
+
+## Task Completed 
+
+i successfully chose the right people to deal with the cyber securitry incidents that was presented 
+
+## Next Steps
+
+- Learn more about security monitoring.
+- Study SIEM fundamentals.
+- Learn how to analyse security alerts.
+- Practise investigating suspicious activity.
