@@ -202,6 +202,34 @@ For this lab "Human as Attack Vector Web App", I worked as SOC analyst at TryHac
 *Status: Completed
 
 
+## Alert Triage
+
+I have successfully completed the SOC L1 Alert Triage room on TryHackMe. This module provided a systematic approach to handling security alerts, which is a core responsibility of a Tier 1 Analyst.
+
+
+
+Completed: SOC L1 Alert Triage (TryHackMe)
+
+Key Takeaways:
+
+Alert Lifecycle: Differentiated between raw Events and correlated Alerts.
+
+Triage Methodology: Learned how to analyze Alert Properties (Source, Destination, Time) to determine scope.
+
+Prioritization: Implemented strategies to prioritize alerts based on severity and impact, ensuring critical threats are addressed first.
+
+Workflow: Developed a repeatable process for investigating, classifying, and escalating alerts.
+
+This training strengthens my ability to efficiently manage the queue and reduce false positives in a SOC environment.
+
+
+
+### practical 
+using tryhackme SIEM, I worked as SOC L1 analyst triaging alerts, differentiated between raw Events and correlated alerts, analyzed alert Properties and was gave verdict on the status on whether its a true positive or false positive.  
+
+
+*Status: Completed
+
 
 ## System as attack Vectors
 
