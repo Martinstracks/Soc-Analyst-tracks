@@ -253,9 +253,26 @@ Description
 
 ### practical 
 For this lab "system as Attack Vectors Web App", I worked as SOC analyst at TryHackMe reviewing and analyzing potential Systems at Risk,prepared and implemented the corporate Remediation Plan and chose the best measures to protect systems at the Remediation Plan tabs. 
-
-
 *Status: Completed
+
+
+
+
+
+##Completed SOC L1 Alert Reporting
+
+Key areas covered:
+- Understanding the alert funnel and alert triage.
+-  Reporting security alerts accurately and effectively.
+- Escalating high-risk incidents appropriately.
+- Communicating clearly within a SOC team.
+-  Understanding the importance of incident response and timely escalation.
+
+##Practical
+This hands-on learning experience helped strengthen my understanding of SOC Level 1 analyst responsibilities and the importance of effective security alert handling, alert reporting, alert escalation, and communication.
+
+
+
 
 
 
