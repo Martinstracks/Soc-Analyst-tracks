@@ -273,6 +273,37 @@ This hands-on learning experience helped strengthen my understanding of SOC Leve
 
 
 
+                                 ##SOC Workbooks and Lookups
+
+## Overview
+Completed the TryHackMe SOC Workbooks and Lookups learning module as part of my cybersecurity and Security Operations Center (SOC) learning journey. This module focuses on using corporate resources and structured workbooks to simplify and improve Level 1 (L1) alert triage.
+
+## Key Learning Areas
+ **Understanding the role of SOC workbooks in security operations.
+ **Assets & Identities:** Identifying assets, users, and identities relevant to security investigations.
+ **Network Diagrams:** Understanding network layouts to support alert analysis and investigation.
+ **Workbooks Theory:** Learning how workbooks and lookup resources help standardize investigation workflows.
+
+## Key Takeaways
+ Workbooks help SOC analysts follow consistent investigation procedures.
+ Asset, identity, and network context can help determine whether an alert is suspicious.
+ Structured workflows improve triage efficiency and support better escalation decisions.
+ Accurate documentation is important for repeatable security investigations.
+
+## Skills Developed
+- SOC Level 1 fundamentals
+- Security alert triage concepts
+- Asset and identity context analysis
+- Basic network investigation concepts
+- Security documentation and workflow standardization
+
+## Conclusion
+This module strengthened my understanding of how SOC analysts use workbooks and lookup resources to investigate alerts systematically.
+
+ **Workbooks Practical:** Applying workbook concepts in different scenarios to support structured L1 alert triage.
+
+##Completed 
+
 
 
 
