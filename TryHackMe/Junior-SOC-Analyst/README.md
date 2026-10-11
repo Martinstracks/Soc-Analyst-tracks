@@ -306,4 +306,21 @@ This module strengthened my understanding of how SOC analysts use workbooks and 
 
 
 
+ ##SOC Metrics and Objectives.
+
+Just wrapped up the core modules of the "SOC Metrics and Objectives" room. This module provided valuable insight into how SOC teams measure their effectiveness.
+
+##Key takeaways from this room:
+
+*Understanding the core metrics that drive SOC performance and business alignment.
+
+*Analyzing triage metrics to measure analyst efficiency and alert handling.
+
+*Exploring practical strategies for improving metrics and optimizing SOC workflows.
+
+
+##Applying these concepts through hands-on practice scenarios.
+
+
+
 
