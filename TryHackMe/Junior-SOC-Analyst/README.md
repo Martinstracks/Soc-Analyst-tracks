@@ -355,4 +355,17 @@ Developed foundational knowledge of endpoint monitoring, alert triage, threat in
 
 
 
+## ✅ Completed Modules
+
+### Introduction to SIEM
+
+**What I learned:**
+*   **Core Concepts:** Understanding what a SIEM is and why it is critical for a SOC.
+*   **Log Management:** How logs are generated, collected, and ingested from various sources.
+*   **The Alerting Process:** How raw log data is correlated to trigger security alerts.
+*   **Practical Skills:** Hands-on lab work navigating a SIEM dashboard to investigate logs.
+
+
+
+
 
