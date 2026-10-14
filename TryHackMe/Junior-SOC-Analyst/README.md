@@ -323,4 +323,36 @@ Just wrapped up the core modules of the "SOC Metrics and Objectives" room. This 
 
 
 
+##Introduction to EDR
+
+This module introduced the fundamentals of Endpoint Detection and Response (EDR), explaining how security teams monitor endpoint activity, identify suspicious behaviour, investigate alerts, and respond to potential security incidents. 
+## Key Learnings
+- Learned the fundamentals of Endpoint Detection and Response (EDR).
+- Understood how EDR monitors endpoint activity and detects suspicious behaviour.
+- Explored endpoint telemetry and behavioural threat detection.
+- Learned how SOC analysts investigate alerts and respond to potential threats.
+- Understood the limitations of traditional antivirus compared to EDR.
+
+
+##Key Takeaways
+
+EDR provides continuous visibility into endpoint activity and helps security teams identify suspicious behaviour.
+
+Traditional antivirus primarily focuses on preventing and detecting known malware, whereas EDR provides broader behavioural monitoring and investigation capabilities.
+
+Endpoint telemetry is essential for understanding what happened on a system and reconstructing potentially malicious activity.
+
+Security alerts require investigation and contextual analysis to distinguish genuine threats from false positives.
+
+Detection and response capabilities support incident handling by helping analysts investigate, contain, and remediate threats.
+
+EDR is an important tool for SOC analysts because it supports threat detection, incident investigation, and endpoint-level response.
+
+## SOC Level 1 Practical and Relevance
+Developed foundational knowledge of endpoint monitoring, alert triage, threat investigation, and incident response.
+
+**Outcome:** Strengthened my understanding of EDR tools and their role in SOC operations.
+
+
+
 
