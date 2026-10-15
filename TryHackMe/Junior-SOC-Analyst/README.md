@@ -365,6 +365,20 @@ Developed foundational knowledge of endpoint monitoring, alert triage, threat in
 *   **The Alerting Process:** How raw log data is correlated to trigger security alerts.
 *   **Practical Skills:** Hands-on lab work navigating a SIEM dashboard to investigate logs.
 
+###Splunk: The Basics
+
+As part of my **SOC Level 1 Cybersecurity Learning Path**, I completed hands-on learning on Splunk, a SIEM platform used by SOC analysts for security monitoring and log investigations.
+
+**Key Topics Learned:**
+- **Splunk Components:** Understanding the fundamentals of Splunk.
+- **Navigation:** Exploring the Splunk interface and search environment.
+- **Data Ingestion:** Understanding how logs are added to Splunk for analysis.
+- **SOC Investigations:** Learning how SIEM tools support security monitoring and threat detection.
+
+**Practical Skills:** 
+hands-on learning on Splunk, searching, log upload and log investigations.
+
+ 
 
 
 
