@@ -378,7 +378,23 @@ As part of my **SOC Level 1 Cybersecurity Learning Path**, I completed hands-on 
 **Practical Skills:** 
 hands-on learning on Splunk, searching, log upload and log investigations.
 
- 
+
+
+ ##Elastic Stack: The Basics
+
+
+During this hands-on learning experience, I explored how the Elastic Stack supports log analysis, search, and data visualization, with a focus on using Kibana.
+
+ **Key skills practiced:**
+- Navigating Kibana Discover to inspect log data
+- Writing KQL queries to filter and investigate events
+- Analyzing VPN connection logs and source IP activity
+- Exploring traffic patterns using time-based visualizations
+- Creating visualizations and dashboards for data analysis
+
+**My biggest takeaway:** Learning how to turn raw log records into meaningful information is an important foundation for security monitoring and SIEM investigations.
+
+
 
 
 
