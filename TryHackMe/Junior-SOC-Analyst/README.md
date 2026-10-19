@@ -397,5 +397,20 @@ During this hands-on learning experience, I explored how the Elastic Stack suppo
 
 
 
+### Introduction to SOAR (Security Orchestration Automation and Response.)
+
+
+Learned the fundamentals of **Security Orchestration, Automation, and Response (SOAR)** and how it improves security operations.
+
+**Key Topics Covered:**
+- Traditional SOC challenges and how SOAR addresses them.
+- Building SOAR playbooks to automate security workflows.
+- Threat intelligence workflows and IOC enrichment.
+- Improving incident response through security automation.
+
+**Skills Gained:** SOC fundamentals, security automation, SOAR playbooks, and threat intelligence.
+
+
+
 
 
