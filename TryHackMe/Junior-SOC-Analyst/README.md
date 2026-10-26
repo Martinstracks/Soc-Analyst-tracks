@@ -411,6 +411,25 @@ Learned the fundamentals of **Security Orchestration, Automation, and Response (
 **Skills Gained:** SOC fundamentals, security automation, SOAR playbooks, and threat intelligence.
 
 
+### Pyramid of Pain 
+
+### Objective
+Understand how different indicators and adversary behaviours can be used to strengthen detection and incident response.
+
+### Learning Outcome
+
+*Hash Analysis: Identify known files and understand hash limitations
+*Network Indicators: Investigate suspicious IP addresses and domains
+*Artifact Analysis: Recognise host and network traces
+*Tool Detection: Understand how malicious tools can be identified
+*Behavioural Detection: Recognise attacker TTPs
+
+### Security Insight
+The Pyramid of Pain encourages defenders to move beyond static indicators and develop detections based on attacker behaviour, making it harder for adversaries to evade security controls.
+
+### Skills Gained
+Threat Intelligence · IoC Analysis · Threat Hunting Fundamentals · SOC Investigation Concepts · MITRE ATT&CK
+
 
 
 
