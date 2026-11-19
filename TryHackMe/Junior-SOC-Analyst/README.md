@@ -432,4 +432,28 @@ Threat Intelligence · IoC Analysis · Threat Hunting Fundamentals · SOC Invest
 
 
 
+###Cyber Kill Chain - Completed
+
+
+##Overview
+completed the *Cyber Kill Chain* room on TryHackMe. This room introduced the Lockheed Martin Cyber Kill Chain framework, which is used to identify and prevent network intrusions by understanding the steps an adversary takes to achieve their goals.
+
+##The Phases of the Cyber Kill Chain
+Here is a summary of the phases I learned and how they apply to an attack lifecycle:
+
+1. *Reconnaissance:* Researching, identifying, and selecting targets (e.g., OSINT, scanning).
+2. *Weaponization:* Coupling an exploit with a backdoor into a deliverable payload.
+3. *Delivery:* Transmitting the weapon to the target (e.g., phishing email, USB).
+4. *Exploitation:* Triggering the malicious code to execute on the victim's system.
+5. *Installation:* Installing malware or a backdoor to maintain persistence.
+6. *Command & Control (C2):* Establishing a communication channel with the compromised system.
+7. *Actions on Objectives:* Achieving the ultimate goal (e.g., data exfiltration, ransomware).
+
+## Key Takeaways
+*Defense in Depth:* Breaking the chain at any point stops the attack. This framework helps defenders understand where to place security controls (e.g., firewalls for C2, email filters for Delivery).
+*Adversary Mindset:* Understanding these steps helps in threat hunting and proactive defense.
+*Limitations:* While excellent for traditional perimeter attacks, it has limitations regarding insider threats and advanced persistent threats (APTs) that bypass certain phases (like C2).
+
+
+
 
